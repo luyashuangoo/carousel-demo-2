@@ -69,4 +69,4 @@ var $imgCt = $('.carousel .img-ct')
 							.eq(pageIndex)
 							.addClass('active')
         }
-    })
+})
